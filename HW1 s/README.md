@@ -1,15 +1,13 @@
 # HW1:
+### Instructor : H Sajedi
 
 Upload the code and the report (pdf) in a rar file 
 
 Use:
 
 * Decision tree
-
 * Random Forest
-
 * XGBoost
-
 * SVM
 
 methods for classification of the data in the below link:
