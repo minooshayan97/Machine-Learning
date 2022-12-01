@@ -5,7 +5,7 @@ The data of two classes in two-dimensional space is given as below, using LDA me
 
 $$ c_0 = \set {(0,-1),(1,0),(2,1)} $$
 
-$$ c_1 = {(1,1),(-1,1),(-1,-1),(-1,-1)}$$
+$$ c_1 = \set{(1,1),(-1,1),(-1,-1),(-1,-1)}$$
 
 ### The second question
 In this exercise, the goal is to classify a two-class dataset using the LDA method. In this database, each data has characteristics obtained by processing the images of original and fake banknotes. The last column of each row represents its data category.
