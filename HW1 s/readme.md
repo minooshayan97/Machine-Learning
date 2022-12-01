@@ -1,16 +1,16 @@
-#HW1:
+# HW1:
 
 Upload the code and the report (pdf) in a rar file 
 
 Use:
 
- Decision tree
+* Decision tree
 
- Random Forest
+* Random Forest
 
- XGBoost
+* XGBoost
 
- SVM
+* SVM
 
 methods for classification of the data in the below link:
 
