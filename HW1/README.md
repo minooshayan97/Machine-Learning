@@ -1,3 +1,6 @@
+# HW1
+## Instructor : Dr. babaali
+
 The data is in the data.npz file (attached). This data was generated based on the following relationship:
 
 $$ y = 4x_2^2x_1 + 2x_2^2 + 3x_1 + 1 $$
