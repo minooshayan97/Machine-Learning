@@ -3,7 +3,7 @@
 ### The first question
 The data of two classes in two-dimensional space is given as below, using LDA method, find the best vector that has the largest distance according to LDA criteria after mapping the data of two classes on it. Report the LDA criteria along with the optimal parameters of the model and the final results obtained. The process should be done descriptively.
 
-$$ c_0 = \{(0,-1),(1,0),(2,1)} $$
+$$ c_0 = {{(0,-1),(1,0),(2,1)}} $$
 
 $$ c_1 = {(1,1),(-1,1),(-1,-1),(-1,-1)}$$
 
