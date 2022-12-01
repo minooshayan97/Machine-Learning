@@ -1,5 +1,5 @@
-# HW1:
-### Instructor :Dr.Sajedi
+# HW1
+### Instructor : Dr.Sajedi
 
 Upload the code and the report (pdf) in a rar file 
 
