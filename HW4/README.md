@@ -4,7 +4,7 @@
 ### The first question
 
 The data of two classes in two-dimensional space is given as follows:
-$$ \set{(0,-1),(1,0),(2,1),(1,1),(-1,1),(-1,-1),(-1,-1)} $$
+$$ \set((0,-1),(1,0),(2,1),(1,1),(-1,1),(-1,-1),(-1,-1)) $$
 1. Obtain the main components.
 2. Map the data on the first component.
 3. Reconstruct the original values using the mapped values.
